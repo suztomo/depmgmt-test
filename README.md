@@ -43,9 +43,9 @@ transitive dependencies.
 [INFO]    \- com.google.guava:guava:jar:20.0:compile
 ```
 
-# Project A receive guava 19.0
+# Project A receives guava 19.0
 
-When Project A is the root, it picks up the guava in transitive dependency without the effect of
+When Project A is the root, it picks up the guava 19.0 in transitive dependency without the effect of
 the dependency management in its dependencies.
 
 ```
