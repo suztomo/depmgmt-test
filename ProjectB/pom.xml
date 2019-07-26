@@ -12,9 +12,7 @@
 
   <artifactId>project-b</artifactId>
 
-  <name>project-b</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>projectB</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +34,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>28.0-jre</version>
+        <version>20.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
